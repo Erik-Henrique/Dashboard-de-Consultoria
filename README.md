@@ -54,4 +54,4 @@ A tela de funcionários do dashboard é composta por:
 ![Análise de Vendas](https://i.ibb.co/WssWFP4/2.png)
 
 #### Produtos
-![Produtos](https://i.ibb.co/JF2wD03/3.png)
+![Produtos](https://i.ibb.co/CM2crPv/3.png)
